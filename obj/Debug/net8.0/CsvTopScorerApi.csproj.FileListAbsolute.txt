@@ -1,0 +1,7 @@
+/Users/nhlakaniphontuli/Desktop/dev/CsvTopScorerApi/obj/Debug/net8.0/CsvTopScorerApi.csproj.AssemblyReference.cache
+/Users/nhlakaniphontuli/Desktop/dev/CsvTopScorerApi/obj/Debug/net8.0/CsvTopScorerApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nhlakaniphontuli/Desktop/dev/CsvTopScorerApi/obj/Debug/net8.0/CsvTopScorerApi.AssemblyInfoInputs.cache
+/Users/nhlakaniphontuli/Desktop/dev/CsvTopScorerApi/obj/Debug/net8.0/CsvTopScorerApi.AssemblyInfo.cs
+/Users/nhlakaniphontuli/Desktop/dev/CsvTopScorerApi/obj/Debug/net8.0/CsvTopScorerApi.csproj.CoreCompileInputs.cache
+/Users/nhlakaniphontuli/Desktop/dev/CsvTopScorerApi/obj/Debug/net8.0/CsvTopScorerApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/nhlakaniphontuli/Desktop/dev/CsvTopScorerApi/obj/Debug/net8.0/CsvTopScorerApi.MvcApplicationPartsAssemblyInfo.cache
